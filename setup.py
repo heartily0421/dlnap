@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(name='dlnap',
-      version='0.14',
+      version='0.15',
       description='Python over the network media player to playback on DLNA UPnP devices',
       author='cherezov',
       author_email='cherezov.pavel@gmail.com',
